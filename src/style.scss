@@ -1,0 +1,14 @@
+.listItem{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  p{
+    margin: 0 0 0 5px;
+  }
+}
+.form{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
